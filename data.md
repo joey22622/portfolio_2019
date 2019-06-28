@@ -35,5 +35,7 @@ PORTFOLIO
     -link (to website)
     -behance, dribbble(-might need multiple) links
 
+FUTURE
+    -API: hex values for time of day colors
 
     
